@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PANG"</string>
+    <string name="jugar">Jugar</string>
+    <string name="hasmuerto">Has Muerto</string>
+    <string name="tupuntuacion">Tu Puntuacion: </string>
+    <string name="guardar">Guardar Puntuacion </string>
+    <string name="ver">Ver Puntuaciones </string>
+    <string name="nada"> </string>
+    <string name="nombre">Introduce tu nombre </string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="puntuaciones">PUNTUACIONES</string>
+    <string name="nombre2">Nombre: </string>
+    <string name="puntuacion">Puntuacion: </string>
+    <string name="volver">Volver a jugar </string>
+    <string name="title_activity_menu_victoria">MenuVictoria</string>
+    <string name="victoria">Victoria!</string>
+    <string name="siguiente">Siguiente nivel</string>
+    <string name="proximamente">(Proximamente)</string>
+
+</resources>
